@@ -35,7 +35,9 @@ Lulus Kelas pada tanggal **23 Juli 2021**.Kelas ini ditujukan untuk pemula yang 
 - **Subprogram** : Mengenalkan subprogram fungsi dan prosedur, yaitu sebuah abstraksi suatu proses komputasi yang dapat dipanggil oleh sebuah program. (1 jam 15 menit)
 - **Penutup** : Latihan problem solving dengan membuat program-program sederhana seperti operasi komputasi, instruksi kondisional, instruksi perulangan, tabel atau array, serta fungsi dan prosedur. (2 jam)
 
+C. Belajar Dasar Git dengan Github
 
+Masih progress pembalajaran (50 %)
 
 
 
